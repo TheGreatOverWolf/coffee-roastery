@@ -70,6 +70,7 @@ p {
     border: 5px solid #72470e;
     border-radius: 15px;
     flex-wrap: wrap;
+    align-content: flex-start;
     
 }
 .box {
