@@ -54,3 +54,29 @@ p {
     padding: 15px;
     border: 2px solid #72470e;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    width: 1500px;
+    border: 5px solid #72470e;
+    border-radius: 15px;
+    flex wrap: wrap;
+    
+}
+.box {
+    background-color: #fff;
+    border: 2px solid #000000;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 20px;
+}
