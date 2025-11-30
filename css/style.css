@@ -37,3 +37,13 @@ p {
     font-size: 16px;
     line-height: 1.5;
 }
+
+.images {
+    background-color: blanchedalmond;
+    max-width: 60%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #72470e;
+}
