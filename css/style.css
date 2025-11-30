@@ -1,5 +1,8 @@
 .navbar {
+    background-color: #000000;
     padding: 10px 0;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #72470e;
 }
 
 .navbar ul {
@@ -13,13 +16,13 @@
     margin: 0 15px;
 }
 .navbar ul li a {
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
 }
 .navbar ul li a:hover {
     text-decoration: underline;
-    color: #582c07;
+    color: #72470e;
 }
 body {
     font-family: Arial, sans-serif;
@@ -28,7 +31,7 @@ body {
     color: #333333;
 }
 h1 {
-    color: #4b2a07;
+    color: #72470e;
 }
 p {
     font-size: 16px;
