@@ -65,7 +65,7 @@ p {
 .boxes {
     display: flex;
     justify-content: center;
-    height: 700px;
+    height: auto;
     width: 1500px;
     border: 5px solid #72470e;
     border-radius: 15px;
@@ -78,5 +78,5 @@ p {
     height: 300px;
     width: 300px;
     border-radius: 10px;
-    margin: 20px;
+    margin: 30px;
 }
