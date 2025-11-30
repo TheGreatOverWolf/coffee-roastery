@@ -69,7 +69,7 @@ p {
     width: 1500px;
     border: 5px solid #72470e;
     border-radius: 15px;
-    flex wrap: wrap;
+    flex-wrap: wrap;
     
 }
 .box {
