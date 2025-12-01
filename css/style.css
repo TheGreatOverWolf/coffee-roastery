@@ -222,3 +222,26 @@ p {
     font-size: 26px;
     transition: 0.3s;
 }
+
+.quotebox {
+    background-color: #fff8e1;
+    border-left: 6px solid #ffcc80;
+    margin: 20px auto;
+    padding: 15px 25px;
+    font-style: italic;
+    color: #555555;
+    max-width: 600px;
+}
+.quote {
+    font-style: italic;
+    text-align: center;
+    margin: 40px auto;
+    font-size: 20px;
+    color: #555555;
+}
+.footer {
+    text-align: center;
+    color: #777777;
+    font-size: 14px;
+    margin-top: 40px;
+}
