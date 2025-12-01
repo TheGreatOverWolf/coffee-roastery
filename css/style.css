@@ -74,10 +74,50 @@ p {
     
 }
 .box {
-    background-color: #fff;
+    background-color: blanchedalmond;
     border: 2px solid #000000;
     height: 300px;
     width: 300px;
     border-radius: 10px;
     margin: 30px;
+}
+#box1 {
+    background-image: url('../images/c2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#box2 {
+    background-image: url('../images/c3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#box3 {
+    background-image: url('../images/c4.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#box4 {
+    background-image: url('../images/c5.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#box5 {
+    background-image: url('../images/c6.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#box6 {
+    background-image: url('../images/c7.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#box7 {
+    background-image: url('../images/c8.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#box8 {
+    background-image: url('../images/c9.jpg');
+    background-size: cover;
+    background-position: center;
 }
