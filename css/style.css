@@ -37,7 +37,12 @@ p {
     font-size: 16px;
     line-height: 1.5;
 }
-
+.Welcome {
+    font-size: 18px;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 800px;
+}
 .logo {
     font-size: 32px;
     color: #72470e;
