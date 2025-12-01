@@ -86,18 +86,6 @@ p {
     background-size: cover;
     background-position: center;
 }
-#box1-1 {
-    color: #72470e;
-    font-size: 24px;
-    text-align: end;
-    padding-top: 310px;
-    justify-self: center;
-}
-#box1-1:hover {
-    color: #996515;
-}
-
-
 #box2 {
     background-image: url('../images/c3.jpg');
     background-size: cover;
@@ -133,3 +121,63 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+#box1-1 {
+    color: #72470e;
+    font-size: 24px;
+    text-align: end;
+    padding-top: 310px;
+    justify-self: center;
+}
+
+#box2-1 {
+    color: #72470e;
+    font-size: 24px;
+    text-align: end;
+    padding-top: 310px;
+    justify-self: center;
+}
+
+#box3-1 {
+    color: #72470e;
+    font-size: 24px;
+    text-align: end;
+    padding-top: 310px;
+    justify-self: center;
+}
+#box4-1 {
+    color: #72470e;
+    font-size: 24px;
+    text-align: end;
+    padding-top: 310px;
+    justify-self: center;
+}
+#box5-1 {
+    color: #72470e;
+    font-size: 24px;
+    text-align: end;
+    padding-top: 310px;
+    justify-self: center;
+}
+#box6-1 {
+    color: #72470e;
+    font-size: 24px;
+    text-align: end;
+    padding-top: 310px;
+    justify-self: center;
+}
+#box7-1 {
+    color: #72470e;
+    font-size: 24px;
+    text-align: end;
+    padding-top: 310px;
+    justify-self: center;
+}
+#box8-1 {
+    color: #72470e;
+    font-size: 24px;
+    text-align: end;
+    padding-top: 310px;
+    justify-self: center;
+}
+
