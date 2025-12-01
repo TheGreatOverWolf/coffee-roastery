@@ -181,3 +181,43 @@ p {
     justify-self: center;
 }
 
+#box1-1:hover {
+    color: #996515;
+    font-size: 26px;
+    transition: 0.3s;
+}
+#box2-1:hover {
+    color: #996515;
+    font-size: 26px;
+    transition: 0.3s;
+}
+#box3-1:hover {
+    color: #996515;
+    font-size: 26px;
+    transition: 0.3s;
+}
+#box4-1:hover {
+    color: #996515;
+    font-size: 26px;
+    transition: 0.3s;
+}
+#box5-1:hover {
+    color: #996515;
+    font-size: 26px;
+    transition: 0.3s;
+}
+#box6-1:hover {
+    color: #996515;
+    font-size: 26px;
+    transition: 0.3s;
+}
+#box7-1:hover {
+    color: #996515;
+    font-size: 26px;
+    transition: 0.3s;
+}
+#box8-1:hover {
+    color: #996515;
+    font-size: 26px;
+    transition: 0.3s;
+}
