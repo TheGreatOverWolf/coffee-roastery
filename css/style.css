@@ -250,3 +250,31 @@ p {
     font-size: 14px;
     margin-top: 40px;
 }
+.email {
+    text-align: center;
+    margin: 40px auto;
+}
+.eh {
+    font-size: 24px;
+    color: #72470e;
+    margin-bottom: 10px;
+}
+.ee {
+    padding: 10px;
+    width: 250px;
+    border: 2px solid #72470e;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.eb {
+    padding: 10px 20px;
+    background-color: #72470e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.eb:hover {
+    background-color: #996515;
+}
